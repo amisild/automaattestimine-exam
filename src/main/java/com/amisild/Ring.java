@@ -6,7 +6,6 @@ public abstract class Ring implements App.Kuju {
     double lengthOfSide;
     String hexColor;
 
-    //kumb on parem: public void v static voidd
     public double ringiArea(double radius) { //pindala
         double rArea;
         rArea = Math.PI * radius * radius;
