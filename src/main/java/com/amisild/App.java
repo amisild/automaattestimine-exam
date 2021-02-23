@@ -1,4 +1,4 @@
-//5 on tegemata sest ma ei osanud seda teha tbh
+
 
 package com.amisild;
 
